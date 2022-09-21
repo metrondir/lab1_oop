@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\38096\Source\Repos\LAba1\LAba1\MyForm.h(234,3): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\38096\Source\Repos\LAba1\LAba1\MyForm.cpp(5,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LAba1.vcxproj -> C:\Users\38096\Source\Repos\LAba1\x64\Debug\LAba1.exe

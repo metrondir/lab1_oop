@@ -1,0 +1,4 @@
+C:\Users\38096\Source\Repos\LAba1\LAba1\x64\Debug\LAba1.vcxproj.AssemblyReference.cache
+C:\Users\38096\Source\Repos\LAba1\LAba1\x64\Debug\LAba1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\38096\Source\Repos\LAba1\LAba1\x64\Debug\LAba1.MyForm.resources
+C:\Users\38096\Source\Repos\LAba1\LAba1\x64\Debug\LAba1.vcxproj.GenerateResource.cache
