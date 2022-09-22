@@ -4,7 +4,7 @@
 using namespace std;
 void ProjectClass::Fn_b(double x, double y, double z)
 {
-	double b1 = 1+pow(fabs(y-x),2)/pow(fabs(y-x),2);
+	double b1 = 1+pow(fabs(y-x),2)/pow(fabs(z-1),1.34);
 	double b2 = pow(z-x,2)/pow(sin(z), 2);
 	double b3 = pow(fabs(y-z),3)/cos(pow(y,2));
 	b = b1+b2+b3;
